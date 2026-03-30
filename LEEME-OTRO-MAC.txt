@@ -1,0 +1,9 @@
+Farty Fart Mac for another Mac
+
+1. Unzip this folder.
+2. If Farty Fart Mac.app does not open because of Apple verification, run "Open Farty Fart Mac.command".
+3. If macOS still blocks it, right click the app and choose Open.
+
+Important:
+Without Apple Developer ID signing and notarization, there is no way to guarantee perfect opening behavior on every Mac.
+This package is prepared as well as possible for manual sharing, but Gatekeeper may still warn on some destination Macs.

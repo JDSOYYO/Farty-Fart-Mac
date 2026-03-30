@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>Farty Fart Mac</string>
+    <key>CFBundleExecutable</key>
+    <string>Farty Fart Mac</string>
+    <key>CFBundleIconFile</key>
+    <string>Farty Fart Mac.icns</string>
+    <key>CFBundleIdentifier</key>
+    <string>local.codex.fartyfartmac</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Farty Fart Mac</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Farty Fart Mac needs microphone access to detect taps on the Mac.</string>
+</dict>
+</plist>
